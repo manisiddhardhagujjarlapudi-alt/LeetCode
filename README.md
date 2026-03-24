@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0058-length-of-last-word) |
 | [0771-jewels-and-stones](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
