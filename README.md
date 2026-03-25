@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -34,6 +35,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0509-fibonacci-number) |
