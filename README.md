@@ -37,6 +37,7 @@
 | [0009-palindrome-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0326-power-of-three) |
@@ -82,6 +83,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0704-binary-search) |
 ## String Matching
 |  |
