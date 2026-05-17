@@ -13,6 +13,7 @@
 | [0283-move-zeroes](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0867-transpose-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
@@ -58,6 +59,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0867-transpose-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Dynamic Programming
 |  |
@@ -93,4 +95,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0796-rotate-string) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
