@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0118-pascals-triangle) |
 | [0283-move-zeroes](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
