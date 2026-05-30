@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0058-length-of-last-word) |
 | [0771-jewels-and-stones](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0796-rotate-string) |
@@ -67,6 +68,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0509-fibonacci-number) |
@@ -104,4 +106,8 @@
 | ------- |
 | [0048-rotate-image](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0867-transpose-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
