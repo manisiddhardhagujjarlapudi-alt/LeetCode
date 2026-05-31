@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0118-pascals-triangle) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
