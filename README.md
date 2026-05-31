@@ -12,6 +12,7 @@
 | [0048-rotate-image](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0118-pascals-triangle) |
+| [0268-missing-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0771-jewels-and-stones) |
 ## String
 |  |
@@ -47,6 +49,7 @@
 | [0069-sqrtx](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -90,11 +93,13 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## String Matching
@@ -110,4 +115,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0022-generate-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
