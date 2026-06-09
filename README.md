@@ -13,6 +13,7 @@
 | [0048-rotate-image](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0268-missing-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -83,6 +84,7 @@
 | [0022-generate-parentheses](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
