@@ -1,5 +1,16 @@
 class Solution {
     public List<Integer> findDuplicates(int[] arr) {
+        // ArrayList<Integer> ans = new ArrayList<>();
+        // int n = arr.length;
+        // for(int i = 0 ; i <n-1; i++){
+        //     for(int j = i + 1; j < n; j++){
+        //         if(arr[i] == arr[j]){
+        //             ans.add(arr[j]);
+        //         }
+        //     }
+        // }
+        // Collections.sort(ans);
+        // return ans;
         List<Integer> al = new ArrayList<>();
         int n = arr.length;
         int i = 0; 
