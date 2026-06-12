@@ -78,6 +78,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -142,6 +143,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Linked List
@@ -154,6 +156,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -161,4 +164,12 @@
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
