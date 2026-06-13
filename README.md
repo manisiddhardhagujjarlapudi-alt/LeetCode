@@ -19,6 +19,7 @@
 | [0287-find-the-duplicate-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0682-baseball-game](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0867-transpose-matrix) |
@@ -92,6 +93,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0867-transpose-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Dynamic Programming
@@ -192,5 +194,6 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
