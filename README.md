@@ -116,6 +116,7 @@
 | [0234-palindrome-linked-list](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -177,6 +178,7 @@
 | [0328-odd-even-linked-list](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Counting
 |  |
 | ------- |
@@ -196,4 +198,9 @@
 | [0234-palindrome-linked-list](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
