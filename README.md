@@ -25,6 +25,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0867-transpose-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
@@ -202,10 +203,12 @@
 | [0503-next-greater-element-ii](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
