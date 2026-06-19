@@ -25,6 +25,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0867-transpose-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1572-matrix-diagonal-sum](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -152,6 +153,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 ## Backtracking
 |  |
 | ------- |
