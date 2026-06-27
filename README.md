@@ -14,6 +14,7 @@
 | [0066-plus-one](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -133,6 +134,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0287-find-the-duplicate-number) |
