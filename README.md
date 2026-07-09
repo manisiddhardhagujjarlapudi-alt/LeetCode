@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -50,6 +51,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0022-generate-parentheses) |
@@ -69,6 +71,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0066-plus-one) |
