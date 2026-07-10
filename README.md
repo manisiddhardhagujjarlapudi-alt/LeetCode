@@ -226,6 +226,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0682-baseball-game) |
@@ -243,4 +244,16 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
