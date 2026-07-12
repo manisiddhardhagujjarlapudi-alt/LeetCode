@@ -30,6 +30,7 @@
 | [0704-binary-search](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0867-transpose-matrix) |
+| [1331-rank-transform-of-an-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -48,6 +49,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0771-jewels-and-stones) |
+| [1331-rank-transform-of-an-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## String
 |  |
 | ------- |
@@ -187,6 +189,7 @@
 | [0148-sort-list](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Linked List
 |  |
 | ------- |
