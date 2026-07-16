@@ -19,6 +19,7 @@
 | [0119-pascals-triangle-ii](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0283-move-zeroes) |
@@ -45,6 +46,7 @@
 | [0141-linked-list-cycle](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -189,6 +191,7 @@
 | [0075-sort-colors](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -218,11 +221,13 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0169-majority-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
