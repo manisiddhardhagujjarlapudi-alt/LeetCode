@@ -87,6 +87,7 @@
 | [0326-power-of-three](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -292,4 +293,8 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0226-invert-binary-tree) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
