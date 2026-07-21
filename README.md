@@ -65,6 +65,7 @@
 | [0058-length-of-last-word](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0771-jewels-and-stones](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -119,6 +120,7 @@
 | [0283-move-zeroes](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1768-merge-strings-alternately) |
