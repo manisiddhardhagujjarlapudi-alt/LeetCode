@@ -49,6 +49,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -62,6 +63,7 @@
 | [0020-valid-parentheses](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -196,6 +198,7 @@
 | [0148-sort-list](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1331-rank-transform-of-an-array) |
