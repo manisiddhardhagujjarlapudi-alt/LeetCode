@@ -66,6 +66,7 @@
 | [0242-valid-anagram](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0434-number-of-segments-in-a-string](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
