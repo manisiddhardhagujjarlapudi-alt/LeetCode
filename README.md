@@ -94,6 +94,7 @@
 | [0326-power-of-three](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prefix Sum
 |  |
@@ -207,6 +208,7 @@
 | [0268-missing-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Linked List
 |  |
 | ------- |
