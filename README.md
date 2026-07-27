@@ -28,6 +28,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -93,6 +94,7 @@
 | [0268-missing-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -207,6 +209,7 @@
 | [0242-valid-anagram](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Linked List
