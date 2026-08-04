@@ -1,7 +1,7 @@
 class Solution {
     public List<Integer> findMissingElements(int[] arr) {
-       int k = 101;
-       int j = 0;
+       int k = Integer.MAX_VALUE;
+       int j = Integer.MIN_VALUE;
        for(int i = 0; i < arr.length; i++){
         if(arr[i] > j) j = arr[i];
         if(arr[i] < k) k = arr[i];
