@@ -109,6 +109,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prefix Sum
@@ -347,4 +348,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0202-happy-number) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
