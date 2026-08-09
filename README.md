@@ -59,6 +59,7 @@
 | [0219-contains-duplicate-ii](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0290-word-pattern) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0771-jewels-and-stones) |
@@ -73,6 +74,7 @@
 | [0022-generate-parentheses](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
