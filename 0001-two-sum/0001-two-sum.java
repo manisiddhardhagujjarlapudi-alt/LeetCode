@@ -8,7 +8,7 @@ class Solution {
                 if(arr[i]+ arr[j] == target){
                     a[0] = i;
                     a[1] = j;
-                    break;
+                    return a;
                 }
             }
         }
