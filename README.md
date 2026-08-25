@@ -45,6 +45,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -67,6 +68,7 @@
 | [0771-jewels-and-stones](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
