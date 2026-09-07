@@ -47,6 +47,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/3731-find-missing-elements) |
+| [3903-smallest-stable-index-i](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [3903-smallest-stable-index-i](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
