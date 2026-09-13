@@ -420,4 +420,12 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0292-nim-game) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
