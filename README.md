@@ -94,6 +94,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -168,6 +169,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
