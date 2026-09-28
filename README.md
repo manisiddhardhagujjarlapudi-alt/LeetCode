@@ -91,6 +91,7 @@
 | [0796-rotate-string](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1108-defanging-an-ip-address) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -306,6 +307,7 @@
 | [0503-next-greater-element-ii](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2390-removing-stars-from-a-string](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -398,6 +400,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Union-Find
 |  |
 | ------- |
