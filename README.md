@@ -51,6 +51,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/3870-count-commas-in-range) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/manisiddhardhagujjarlapudi-alt/LeetCode/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Prefix Sum
 |  |
 | ------- |
